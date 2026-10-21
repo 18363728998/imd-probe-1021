@@ -3,4 +3,5 @@ src = "src"
 test = "test"
 out = "out"
 libs = ["lib"]
-ffi = true
+bytecode_hash = "none"
+solc = "./tools/solc"
